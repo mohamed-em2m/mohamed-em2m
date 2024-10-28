@@ -8,7 +8,7 @@
 <br/>
 
 <h3>🚀 About Me</h3> 
-<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="345px"></picture>
+<picture> <img align="right" src="https://media.tenor.com/6T2JCqexwvgAAAAi/robot-ok.gif" width="345px"></picture>
 
 <h4>👋 Hello, I'm Mohamed Emam</h4>
 
