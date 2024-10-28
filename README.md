@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mohamed Emam - Welcome to My GitHub Profile!</h1>
+<h1 align="center">👋 Hello, I'm Mohamed Emam - Welcome to My GitHub Profile!</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI%20Engineer;Machine%20Learning%20Specialist;Stay%20Tuned%20for%20More%20Projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24">
@@ -9,21 +9,19 @@
 <h3>🚀 About Me</h3> 
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="345px"></picture>
 
-<h4>👋 Hello, I'm Mohamed Emam</h4>
+<h4>👋 Hi, I'm Mohamed Emam</h4>
 
-🎓 Currently studying Computer Science & Artificial Intelligence at Banha University with a CGPA of 3.5. I’m an AI enthusiast skilled in deep learning, machine learning, NLP, computer vision, and MLOps. 
+🎓 I am a recent graduate in Computer Science and Artificial Intelligence from Banha University with a CGPA of 3.5, focusing on machine learning, NLP, deep learning, and computer vision.
 
-💻 I am proficient in multiple programming languages and tools, including Python, C++, MATLAB, and SQL. Additionally, I have hands-on experience with backend development using Node.js and Flask, and frontend skills with HTML, CSS, and Bootstrap.
+💻 Skilled in Python, MATLAB, C++, SQL, and familiar with backend frameworks like Node.js and Flask. My frontend skills include HTML, CSS, and Bootstrap, complemented by Linux administration experience.
 
-🔭 Passionate about leveraging AI to solve real-world problems, I’ve worked on projects in real-time emotion detection, automated grading, meeting summarization, and disease classification.
+🔭 I’m passionate about applying AI to solve complex problems. Some of my recent projects include automated grading with LLMs, real-time emotion detection, and Arabic meeting summarization.
 
-🌱 I’m a continuous learner, always seeking opportunities to enhance my knowledge, particularly in NLP and computer vision, using frameworks like PyTorch, TensorFlow, and LangChain.
+🌱 Constantly learning and developing new skills, especially in MLOps and data visualization, using PyTorch, TensorFlow, and LangChain.
 
-🤝 Let’s connect and explore exciting collaborations in AI, machine learning, NLP, or software development. I’m open to exchanging ideas and discussing innovative projects.
+🤝 Let's connect! I'm open to collaborations and discussions in the fields of AI, machine learning, and software engineering.
 
-📫 Reach out through GitHub, LinkedIn, or email – let’s create together!
-
-🌐 Explore my work and connect with me on [GitHub](https://github.com/mohamed-em2m)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-emam-599970208/) or feel free to reach out via email at [emam200232@gmail.com](mailto:emam200232@gmail.com).
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="45%">
 
@@ -34,7 +32,6 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
