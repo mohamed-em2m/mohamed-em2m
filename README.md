@@ -16,11 +16,12 @@
 
 💻 **Technical Proficiencies**:
    - **Languages**: Python, JavaScript, C++, MATLAB
-   - **Backend**: Node.js, Flask
+   - **Backend**: Node.js, Flask,Docker
+   - **Cloud**: GCP, Azure
    - **Frontend**: HTML, CSS, Bootstrap, React
-   - **AI Frameworks**: PyTorch, TensorFlow, LangChain
+   - **AI Frameworks**: PyTorch, TensorFlow, LangChain,LangGraph
    - **Specializations**: NLP, Computer Vision, Deep Learning, MLOps, Docker
-   - **Tools**: Linux (Administrator 1 and 2), MongoDB, SQL
+   - **Tools**: Linux (Administrator 1 and 2), MongoDB, SQL,BigQuery
 
 🔭 **Key Projects**:
    - **Dataset Generator Model**: Developed an automated question-answer dataset generator for enhanced data efficiency.
