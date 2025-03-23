@@ -35,7 +35,7 @@
 
 🤝 **Let's Connect**: Passionate about collaborating on projects that combine AI with innovation. Let’s connect on LinkedIn or brainstorm some fresh AI ideas together.
 
-📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/mohamed-emam-599970208/) | [Email](mailto:emam200232@gmail.com)
+📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/mohamed-emam-599970208/) | [Email](mailto:emam200232@gmail.com) | [Kaggle](https://www.kaggle.com/elemam)
 
 ---
 
