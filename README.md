@@ -3,8 +3,8 @@
 <p align="center">
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%7C%20Machine%20Learning%20Specialist;NLP%20and%20Computer%20Vision%20Enthusiast;Constant%20Learner%20and%20Innovator;Stay%20Tuned%20for%20Exciting%20Projects&font=Fira%20Code&center=true&vCenter=true&width=700&height=45&color=2196f3&size=24" alt="Typing SVG" />
 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20%7C%20Machine%20Learning%20Specialist;NLP%20and%20Computer%20Vision%20Enthusiast;Constant%20Learner%20and%20Innovator;Stay%20Tuned%20for%20Exciting%20Projects&font=Fira%20Code&center=true&width=700&height=45&color=2196f3&vCenter=true&size=24">
 
   </a>
 
