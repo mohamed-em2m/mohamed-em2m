@@ -1,97 +1,109 @@
-**👋 Hi there, I'm Mohamed Emam — Aspiring AI Engineer**
+<h1 align="center">👋 Hi, I’m **Mohamed Emam**</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/mohamed-emam-599970208/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square\&logo=kaggle)](https://www.kaggle.com/elemam) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail)](mailto:emam200232@gmail.com)
+<p align="center">
+  <a href="https://github.com/mohamed-em2m"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=24&pause=1000&color=2196F3&width=600&lines=AI+Engineer+%7C+ML+%26+NLP+Specialist;Computer+Vision+Enthusiast;MLOps+%26+Cloud+Advocate" alt="Typing SVG"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-emam-599970208/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mohamed-em2m" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.kaggle.com/elemam" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:emam200232@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
 ## 🎯 About Me
 
-I'm a **Computer Science & AI** graduate from Banha University (CGPA: 3.5/4) with a passion for building intelligent systems that solve real-world problems. I specialize in:
+I’m a passionate **AI Engineer** with a B.Sc. in Computer Science & AI (CGPA: 3.5) from Banha University. I thrive on transforming complex data into impactful solutions. My journey spans:
 
-* **Machine Learning & Deep Learning** (NLP, Computer Vision)
-* **Full-Stack Development** (MERN)
-* **MLOps & Cloud Infrastructure** (GCP, Azure, AWS)
+* Designing **end-to-end ML pipelines** for NLP & computer vision
+* Deploying scalable AI services on **GCP**, **Azure**, and **AWS**
+* Automating **MLOps** workflows with Docker & CI/CD
 
-I thrive on turning data into actionable insights and delivering end-to-end AI solutions.
-
----
-
-## 🛠 Technical Skills
-
-| Domain             | Tools & Technologies                                                                           |
-| ------------------ | ---------------------------------------------------------------------------------------------- |
-| Programming        | Python · JavaScript · C++ · MATLAB                                                             |
-| AI & ML Frameworks | PyTorch · TensorFlow · scikit-learn · LangChain · LangGraph                                    |
-| Backend            | Node.js · Flask · Docker                                                                       |
-| Frontend           | HTML · CSS · Bootstrap · React                                                                 |
-| Cloud & DevOps     | GCP · Azure · AWS · BigQuery · Firestore · MongoDB · SQL · Docker · GitHub Actions · Bitbucket |
-| Others             | Linux (Admin 1 & 2) · Web Scraping · Prompt Engineering · Data Visualization                   |
+I believe in lifelong learning, community collaboration, and open-source contribution.
 
 ---
 
-## 🚀 Selected Projects
+## 🛠️ Tech Stack
 
-### Maika App (Virtualize)
-
-* **Role:** AI Engineer
-* Built an AI-powered travel assistant that recommends flights, hotels, and attractions.
-* Implemented image-based location search; optimized average response time to **10s**.
-* **Tech:** Python · Flask · React · GCP
-
-### Diib Realties Chatbot (Deeb Realities)
-
-* Developed a cross-platform AI chatbot for real estate inquiries, appointment booking, and complaint handling.
-* Integrated with Odoo CRM & WhatsApp Business API; deployed on GCP for scalability.
-* **Tech:** Python · Odoo · Dialogflow · Google Cloud
-
-### Automatic Essay Grading
-
-* Engineered an LLM-based grading system with **94%** accuracy (English) & **86%** (Arabic).
-* Fine-tuned LLAMA, Mistral, MT0, and FLAN-T5 models on custom datasets.
-
-### Real-Time Emotion Detection
-
-* Created a CNN-based face emotion detector (65% accuracy) using FER-2013 dataset.
-
-### Dataset Generator Agent
-
-* Automated QA-pair generation from articles/webpages to streamline dataset creation.
-
-### Google Speech Command Recognition
-
-* Real-time audio command classification with MFCC features & ANN/LSTM/CNN models.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
+</p>
 
 ---
 
-## 🎓 Education & Training
+## 🚀 Featured Projects
 
-* **B.Sc. in Computer Science & AI**, Banha University (2020–2024) — CGPA: 3.5/4
-* **NTI Linux Administrator** (70h Training, Mar–May 2024)
-* **Digital Egypt Pioneers Initiative (DEPI)** — React Web Development
+### [🗺️ Maika App (Virtualize)](https://github.com/mohamed-em2m/maika-app)
+
+* **AI Engineer**: Real-time travel recommendation engine
+* **Highlights:** Image-based location search; reduced Avg. latency to **<10s**
+* **Stack:** Python, Flask, React, GCP
+
+### [💬 Diib Realties Chatbot](https://github.com/mohamed-em2m/diib-chatbot)
+
+* AI chatbot for property inquiries, bookings & support
+* Integrated **Odoo CRM**, **Dialogflow**, **WhatsApp API** on GCP
+* Maintains **99% uptime** with auto-scaling
+
+### [📝 Automatic Essay Grading](https://github.com/mohamed-em2m/auto-grader)
+
+* LLM-based scoring with **94% (EN)** & **86% (AR)** accuracy
+* Fine-tuned LLAMA, Mistral, MT0, FLAN-T5 on custom corpora
+
+### [😊 Real-Time Emotion Detection](https://github.com/mohamed-em2m/emotion-detector)
+
+* CNN model reaching **65%** accuracy on FER-2013
+* Deployed via Docker & Flask API
 
 ---
 
-## 📜 Certifications
+## 🎓 Education
 
-* NDG Linux Unhatched
-* DeepLearning.AI: Machine Learning · Deep Learning · NLP · Advanced Algorithms · Probabilistic Models
-* Mathematics for Machine Learning (Multivariate Calculus)
-* Supervised & Unsupervised Learning · Recommenders · RL
+* **B.Sc. in Computer Science & AI**, Banha University (2020–2024)
+* **NTI Linux Administrator** (70h) — Mar–May 2024
+* **Digital Egypt Pioneers Initiative** — React Web Development
+
+---
+
+## 📜 Certifications & Training
+
+* **DeepLearning.AI**: Machine Learning · Deep Learning · NLP · Advanced Algorithms
+* **Mathematics for Machine Learning** — Multivariate Calculus
+* **NDG Linux Unhatched**
+* **Prompt Engineering** · Web Scraping · Data Visualization
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-em2m\&show_icons=true\&theme=dark)](https://github.com/mohamed-em2m)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-em2m&show_icons=true&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-em2m&theme=dark&hide_border=true" width="49%" />
+</p>
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Get in Touch
 
-I’m always open to exciting AI projects, open-source contributions, and networking. Feel free to:
+Feel free to reach out for AI collaborations, open-source ideas, or just to chat!
 
-* 📩 Drop me an email: **[emam200232@gmail.com](mailto:emam200232@gmail.com)**
-* 🔗 Connect on LinkedIn: [mohamed-emam-599970208](https://www.linkedin.com/in/mohamed-emam-599970208/)
-* 🌐 Explore my Kaggle: [elemam](https://www.kaggle.com/elemam)
+* 📧 **Email:** [emam200232@gmail.com](mailto:emam200232@gmail.com)
+* 🔗 **LinkedIn:** [mohamed-emam-599970208](https://www.linkedin.com/in/mohamed-emam-599970208/)
+* 📂 **Kaggle:** [elemam](https://www.kaggle.com/elemam)
 
-*“Innovation distinguishes between a leader and a follower.” — Steve Jobs*
+---
+
+*“The future belongs to those who believe in the beauty of their dreams.”* — Eleanor Roosevelt
