@@ -42,34 +42,6 @@ I believe in lifelong learning, community collaboration, and open-source contrib
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### [🗺️ Maika App (Virtualize)](https://github.com/mohamed-em2m/maika-app)
-
-* **AI Engineer**: Real-time travel recommendation engine
-* **Highlights:** Image-based location search; reduced Avg. latency to **<10s**
-* **Stack:** Python, Flask, React, GCP
-
-### [💬 Diib Realties Chatbot](https://github.com/mohamed-em2m/diib-chatbot)
-
-* AI chatbot for property inquiries, bookings & support
-* Integrated **Odoo CRM**, **Dialogflow**, **WhatsApp API** on GCP
-* Maintains **99% uptime** with auto-scaling
-
-### [📝 Automatic Essay Grading](https://github.com/mohamed-em2m/auto-grader)
-
-* LLM-based scoring with **94% (EN)** & **86% (AR)** accuracy
-* Fine-tuned LLAMA, Mistral, MT0, FLAN-T5 on custom corpora
-
-### [😊 Real-Time Emotion Detection](https://github.com/mohamed-em2m/emotion-detector)
-
-* CNN model reaching **65%** accuracy on FER-2013
-* Deployed via Docker & Flask API
-
----
-
 ## 🎓 Education
 
 * **B.Sc. in Computer Science & AI**, Banha University (2020–2024)
@@ -103,7 +75,3 @@ Feel free to reach out for AI collaborations, open-source ideas, or just to chat
 * 📧 **Email:** [emam200232@gmail.com](mailto:emam200232@gmail.com)
 * 🔗 **LinkedIn:** [mohamed-emam-599970208](https://www.linkedin.com/in/mohamed-emam-599970208/)
 * 📂 **Kaggle:** [elemam](https://www.kaggle.com/elemam)
-
----
-
-*“The future belongs to those who believe in the beauty of their dreams.”* — Eleanor Roosevelt
