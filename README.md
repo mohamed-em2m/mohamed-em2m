@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m **Mohamed Emam** </h1>
+<h1 align="center">👋 Hi, I’m Mohamed Emam </h1>
 
 <p align="center">
   <a href="https://github.com/mohamed-em2m"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=24&pause=1000&color=2196F3&width=600&lines=AI+Engineer+%7C+ML+%26+NLP+Specialist;Computer+Vision+Enthusiast;MLOps+%26+Cloud+Advocate" alt="Typing SVG"/></a>
