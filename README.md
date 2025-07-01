@@ -109,10 +109,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-em2m&theme=radical&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-em2m&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-
 ## 🤝 Let's Connect & Collaborate
 
 I'm passionate about leveraging AI to solve real-world problems and always open to exciting collaborations!
