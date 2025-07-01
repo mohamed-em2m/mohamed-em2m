@@ -106,7 +106,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-em2m&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-em2m&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ## 🤝 Let's Connect & Collaborate
