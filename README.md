@@ -39,8 +39,7 @@ location:   Cairo, Egypt 🇪🇬
 experience: 2+ years in production AI
 
 currently:
-  - AI Engineer @ Vrtualize (Maika Travel AI)
-  - AI Engineer @ Deeb Realties (Diib Chatbot)
+  - AI Engineer @ COA HOLDING
 
 education:
   degree: B.Sc. Computer Science & AI
