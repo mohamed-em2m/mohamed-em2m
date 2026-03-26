@@ -43,31 +43,7 @@
 
 ## 👤 Who Am I?
 
-```python
-class MohamedEmam:
-    name       = "Mohamed Emam"
-    role       = "AI Engineer"
-    location   = "Cairo, Egypt 🇪🇬"
-    education  = "B.Sc. Computer Science & AI — Banha University (GPA: 3.5/4 | Graduation: A+)"
-
-    expertise  = [
-        "Multi-Agent Systems & LLM Orchestration",
-        "RAG Pipelines & Knowledge Graph RAG",
-        "Computer Vision & Real-Time Detection",
-        "NLP — Classification, Embeddings, Fine-tuning",
-        "Cloud Deployment (GCP, Azure) & MLOps",
-        "Full-Stack Development (FastAPI + React + MongoDB)",
-    ]
-
-    currently  = "AI Engineer @ COA Holding — Facebook Ads Optimization Agent"
-
-    off_screen = ["⚽ Football & fitness", "🎮 Gaming", "📚 Reading"]
-
-    fun_fact   = "I built a C++ RAG engine that scrapes 20+ sites and answers in < 4 seconds."
-
-    def say_hi(self):
-        print("Let's build something intelligent together.")
-```
+AI Engineer with strong expertise in machine learning, deep learning, NLP, and computer vision. Experienced in designing and deploying production-ready AI solutions including chatbots, recommendation engines, and real-time detection systems. Skilled in full-stack development (MERN) and proficient in Python, C++, and JavaScript. Hands-on experience with cloud deployment (GCP, Azure) and MLOps practices. Passionate about applying AI to solve real-world problems and staying at the forefront of emerging AI technologies.
 
 <br/>
 
