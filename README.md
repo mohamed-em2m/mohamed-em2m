@@ -1,31 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06B6D4,100:10B981&height=80&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A3D2E,100:0F5132&height=120&section=header&text=Mohamed%20Emam&fontSize=42&fontColor=4ADE80&fontAlignY=65&desc=AI%20Engineer%20%7C%20Cairo%2C%20Egypt&descAlignY=85&descSize=16&descColor=6EE7B7"/>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=mohamed-em2m&style=flat-square)
-![Followers](https://img.shields.io/github/followers/mohamed-em2m?style=social)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-em2m&style=flat-square&color=0f5132&label=Profile+Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/mohamed-em2m?style=flat-square&color=0a3d2e&labelColor=0d1b2a&label=Followers"/>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=35&lines=%F0%9F%91%8B+Hello%2C+I'm+Mohamed+Emam!" alt="Typing SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&height=30&lines=AI+Engineer+%7C+LLM+%26+Multi-Agent+Systems;Building+Intelligent+Solutions+with+AI;NLP+%7C+Computer+Vision+%7C+RAG+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=4ADE80&center=true&vCenter=true&width=620&height=35&lines=Building+AI+That+Solves+Real+Problems.;Multi-Agent+Systems+%7C+LLM+Pipelines+%7C+RAG;From+Cairo+to+Production-Ready+AI." alt="Typing SVG" />
 </div>
 
 <br/>
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://github.com/mohamed-em2m" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="52" />
+  <a href="https://github.com/mohamed-em2m" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=4ADE80"/>
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=4ADE80"/>
   </a>
-  <a href="mailto:emam200232@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  &nbsp;
+  <a href="mailto:emam200232@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0d1b2a?style=for-the-badge&logo=gmail&logoColor=4ADE80"/>
   </a>
-  <a href="https://kaggle.com/elemam" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="52" />
+  &nbsp;
+  <a href="https://kaggle.com/elemam" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-0d1b2a?style=for-the-badge&logo=kaggle&logoColor=4ADE80"/>
   </a>
 </div>
 
@@ -35,21 +41,33 @@
 
 <br/>
 
-<!-- About Me -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  <span style="color: #8B5CF6;">About Me</span>
-</h2>
+## 👤 Who Am I?
 
-Hi! I'm **Mohamed Emam** — an AI Engineer with strong expertise in **machine learning, deep learning, NLP, and computer vision**. I design and deploy production-ready AI solutions including chatbots, recommendation engines, multi-agent systems, and real-time detection systems. I hold a B.Sc. in Computer Science and Artificial Intelligence from Banha University (CGPA: 3.5/4, Graduation Project: A+).
+```python
+class MohamedEmam:
+    name       = "Mohamed Emam"
+    role       = "AI Engineer"
+    location   = "Cairo, Egypt 🇪🇬"
+    education  = "B.Sc. Computer Science & AI — Banha University (GPA: 3.5/4 | Graduation: A+)"
 
-- 🤖 Multi-agent systems, LLM pipelines & RAG architectures
-- 💬 Chatbots deployed across WhatsApp, Instagram & Facebook Messenger
-- 🌍 Full-stack capable — Python backend to React frontend
-- ☁️ Cloud deployment on GCP & Azure with MLOps practices
-- 🧠 Open source contributor (Tryolabs, Mistral-Common, and more)
-- 🖥️ Linux administrator with Bash automation skills
-- 🏆 Passionate about applying AI to real-world problems
+    expertise  = [
+        "Multi-Agent Systems & LLM Orchestration",
+        "RAG Pipelines & Knowledge Graph RAG",
+        "Computer Vision & Real-Time Detection",
+        "NLP — Classification, Embeddings, Fine-tuning",
+        "Cloud Deployment (GCP, Azure) & MLOps",
+        "Full-Stack Development (FastAPI + React + MongoDB)",
+    ]
+
+    currently  = "AI Engineer @ COA Holding — Facebook Ads Optimization Agent"
+
+    off_screen = ["⚽ Football & fitness", "🎮 Gaming", "📚 Reading"]
+
+    fun_fact   = "I built a C++ RAG engine that scrapes 20+ sites and answers in < 4 seconds."
+
+    def say_hi(self):
+        print("Let's build something intelligent together.")
+```
 
 <br/>
 
@@ -57,119 +75,110 @@ Hi! I'm **Mohamed Emam** — an AI Engineer with strong expertise in **machine l
 
 <br/>
 
-<!-- Technical Skills -->
-<h2 align="center">
-  🚀 <span style="color: #06B6D4;">Technical Skills</span>
-</h2>
+## 🧠 Technical Arsenal
 
 <div align="center">
 
-<h3>🤖 AI & LLM Expertise</h3>
+### 🤖 LLM & Agentic AI
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLaMA-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/vLLM-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SGLang-06B6D4?style=for-the-badge"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF4081?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Knowledge_Graph_RAG-10B981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/llama.cpp-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0d1b2a?style=for-the-badge&logo=chainlink&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/LangGraph-0d1b2a?style=for-the-badge&logo=chainlink&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/OpenAI-0d1b2a?style=for-the-badge&logo=openai&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/Gemini-0d1b2a?style=for-the-badge&logo=google&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/LLaMA-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/vLLM-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/SGLang-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/llama.cpp-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/Knowledge_Graph_RAG-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/N8N-0d1b2a?style=for-the-badge&logo=n8n&logoColor=4ADE80"/>
 </p>
 
-<br/>
-
-<h3>⚙️ Core Tech Stack</h3>
+### ⚙️ Core Stack
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-<br><b>Python</b>
+<td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45"/>
+  <br><sub><b>Python</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" height="48" />
-<br><b>PyTorch</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45"/>
+  <br><sub><b>PyTorch</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
-<br><b>TensorFlow</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45"/>
+  <br><sub><b>TensorFlow</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
-<br><b>FastAPI</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45"/>
+  <br><sub><b>FastAPI</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
-<br><b>Flask</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=flask" width="45" height="45"/>
+  <br><sub><b>Flask</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-<br><b>React</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=react" width="45" height="45"/>
+  <br><sub><b>React</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-<br><b>Node.js</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
+  <br><sub><b>Node.js</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-<br><b>Docker</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/>
+  <br><sub><b>Docker</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="48" height="48" />
-<br><b>GCP</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45"/>
+  <br><sub><b>GCP</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="48" height="48" />
-<br><b>Azure</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=azure" width="45" height="45"/>
+  <br><sub><b>Azure</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
-<br><b>PostgreSQL</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/>
+  <br><sub><b>PostgreSQL</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-<br><b>MongoDB</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/>
+  <br><sub><b>MongoDB</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=neo4j" alt="Neo4j" width="48" height="48" />
-<br><b>Neo4j</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=neo4j" width="45" height="45"/>
+  <br><sub><b>Neo4j</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-<br><b>Linux</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=linux" width="45" height="45"/>
+  <br><sub><b>Linux</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-<br><b>Git</b>
+<td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
+  <br><sub><b>Git</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
-<br><b>C++</b>
+<td align="center" width="90">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45"/>
+  <br><sub><b>C++</b></sub>
 </td>
 </tr>
 </table>
 
-<br/>
-
-<h3>💻 Other Technologies</h3>
+### 🌐 Other Technologies
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/ONNX-0d1b2a?style=for-the-badge&logo=onnx&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/TensorRT-0d1b2a?style=for-the-badge&logo=nvidia&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/WebSocket-0d1b2a?style=for-the-badge&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/Bash-0d1b2a?style=for-the-badge&logo=gnu-bash&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/MATLAB-0d1b2a?style=for-the-badge&logo=mathworks&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/BigQuery-0d1b2a?style=for-the-badge&logo=google-cloud&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/Firestore-0d1b2a?style=for-the-badge&logo=firebase&logoColor=4ADE80"/>
 </p>
 
 </div>
@@ -180,25 +189,49 @@ Hi! I'm **Mohamed Emam** — an AI Engineer with strong expertise in **machine l
 
 <br/>
 
-<!-- Key Projects -->
-<h2 align="center">
-  🛠️ <span style="color: #10B981;">Key Projects</span>
-</h2>
+## 🚀 What I've Built
 
-<div align="center">
+> *Production systems, not just experiments.*
 
-| Project | Description | Tech |
-|---|---|---|
-| 🌍 **Maika AI Travel Assistant** | Multi-agent travel recommendation system with image-based location search & 10s response time | LangGraph, RAG, FastAPI, GCP, Azure |
-| 🏠 **Diib Realties AI Chatbot** | Cross-platform chatbot (WhatsApp, Instagram, FB) with booking & CRM integration | LangGraph, Odoo, GCP, Facebook API |
-| 📢 **Facebook Ads Optimization Agent** | Autonomous agent for dynamic ad campaign optimization with KPI-based stop/continue logic | LLM Agents, GCP |
-| 🎙️ **Real-Time Voice Agent with Avatar** | Sub-2s latency voice agent with synchronized avatar at 25fps | Gemini Live API, WebSocket, Google ADK |
-| 🤝 **Cooperative Multi-Agent System** | Feedback-loop multi-agent system supporting GPT, Claude, Gemini & local models | vLLM, LangChain, Docker, GCP |
-| 📝 **Automatic Grading System** | LLM-powered grader with 94% accuracy on English, 86% on Arabic | LLM, Vision LLM, RAG, FastAPI |
-| 🔍 **Real-Time AI Search Engine** | C++ RAG pipeline scraping 20+ websites and answering queries in under 4 seconds | C++, curl, gumbo, Google Search API |
-| 📊 **CSV Report Builder** | AI agent generating visual analytical reports from CSV files with natural language interface | LLM, LangChain, FastAPI |
+<br/>
 
-</div>
+**🌍 Maika — AI Travel Assistant** &nbsp;`LangGraph` `RAG` `FastAPI` `GCP` `Azure`
+> Personalized flight, hotel & destination recommendations with image-based location search. Multi-agent architecture hitting **10s average response time**, with a Rust-powered web search tool that processes results in **3 seconds**.
+
+---
+
+**🏠 Diib Realties — Cross-Platform AI Chatbot** &nbsp;`LangGraph` `Odoo` `GCP` `Facebook API`
+> Deployed across WhatsApp, Instagram & Facebook Messenger with automated booking, complaint management, and full Odoo CRM integration. **99.9% uptime** on GCP.
+
+---
+
+**📢 Facebook Ads Optimization Agent** &nbsp;`LLM Agents` `GCP`
+> Autonomous agent monitoring ad campaigns, adjusting budgets dynamically, and applying stop/continue logic based on predefined KPIs — **eliminating manual intervention entirely**.
+
+---
+
+**🎙️ Real-Time Voice Agent with Avatar** &nbsp;`Gemini Live API` `WebSocket` `Google ADK`
+> Voice-driven conversational agent with synchronized avatar rendered at **25 fps**, achieving **sub-2 second** voice-to-animation latency via optimized WebSocket audio streaming.
+
+---
+
+**🤝 Cooperative Multi-Agent System** &nbsp;`vLLM` `LangChain` `Docker` `GCP` `Azure`
+> Feedback-loop architecture supporting GPT, Claude, Gemini and self-hosted local models. Extended with vision capabilities and live voice calling.
+
+---
+
+**📝 Automatic Grading System** &nbsp;`LLM` `Vision LLM` `RAG` `FastAPI`
+> LLM-powered grader achieving **94% accuracy on English** and **86% on Arabic** datasets — cutting manual grading time by **80%**.
+
+---
+
+**🔍 Real-Time AI Search Engine** &nbsp;`C++` `gumbo` `curl` `Google Search API`
+> End-to-end RAG pipeline with a high-concurrency C++ scraper. Processes **20+ websites** and synthesizes answers in **under 4 seconds** — significantly faster than Python equivalents.
+
+---
+
+**📊 CSV Report Builder** &nbsp;`LLM` `LangChain` `FastAPI`
+> Natural language interface for CSV analysis — ask a question, get a full visual report with automated insight generation.
 
 <br/>
 
@@ -206,20 +239,29 @@ Hi! I'm **Mohamed Emam** — an AI Engineer with strong expertise in **machine l
 
 <br/>
 
-<!-- Open Source -->
-<h2 align="center">
-  🌐 <span style="color: #06B6D4;">Open Source Contributions</span>
-</h2>
+## 🌐 Open Source Contributions
 
-<div align="center">
-
-| Repository | Contribution |
+| 📦 Repository | 🔧 What I Did |
 |---|---|
-| ⚽ **Tryolabs Soccer Analytics** | Extended YOLOv5/v8 support, dynamic label mapping, configurable team colors & video params |
-| 🤖 **Mistral-Common** | Standardized API responses, added streaming support, migrated to httpx for async requests |
-| 🧠 **MemoryOs** | Fixed environment variable bug for dynamic model assignment across utility functions |
-| 📄 **PageIndex** | Added Docling support, Pydantic JSON validation, and configurable LLM API |
+| ⚽ **Tryolabs — Soccer Analytics** | Extended YOLOv5/v8 support with dynamic label mapping, configurable team palettes & video params |
+| 🤖 **Mistral-Common** | Standardized API responses, added streaming support, migrated to `httpx` for async |
+| 🧠 **MemoryOs** | Fixed env variable bug preventing dynamic model assignment across utility functions |
+| 📄 **PageIndex** | Added Docling support, Pydantic JSON validation & configurable LLM API |
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🎓 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning_Specialization-DeepLearning.AI-0d1b2a?style=for-the-badge&logo=coursera&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/NLP_Specialization-DeepLearning.AI-0d1b2a?style=for-the-badge&logo=coursera&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/Mathematics_for_ML-Coursera-0d1b2a?style=for-the-badge&logo=coursera&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/Linux_Administration-NTI-0d1b2a?style=for-the-badge&logo=linux&logoColor=4ADE80"/>
+  <img src="https://img.shields.io/badge/React_Developer-DEPI_MCIT-0d1b2a?style=for-the-badge&logo=react&logoColor=4ADE80"/>
 </div>
 
 <br/>
@@ -228,22 +270,23 @@ Hi! I'm **Mohamed Emam** — an AI Engineer with strong expertise in **machine l
 
 <br/>
 
-<!-- GitHub Stats -->
-<h2 align="center">
-  📊 <span style="color: #10B981;">GitHub Statistics</span>
-</h2>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-em2m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=15&order=1" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-em2m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&border_radius=15&order=2" height="160" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-em2m&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&border_radius=12&bg_color=0d1b2a&title_color=4ADE80&icon_color=6EE7B7&text_color=a7f3d0" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-em2m&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=true&border_radius=12&bg_color=0d1b2a&title_color=4ADE80&text_color=a7f3d0" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/mohamed-em2m">
-    <img src="https://streak-stats.demolab.com/?user=mohamed-em2m&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=mohamed-em2m&hide_border=true&border_radius=12&background=0d1b2a&ring=4ADE80&fire=6EE7B7&currStreakLabel=4ADE80&sideLabels=a7f3d0&dates=6b7280" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-em2m&bg_color=0d1b2a&color=4ADE80&line=0a3d2e&point=6EE7B7&area=true&hide_border=true" width="95%"/>
 </div>
 
 <br/>
@@ -252,35 +295,38 @@ Hi! I'm **Mohamed Emam** — an AI Engineer with strong expertise in **machine l
 
 <br/>
 
-<!-- Contact -->
-<h2 align="center">
-  📬 <span style="color: #8B5CF6;">Let's Connect!</span>
-</h2>
+## 📬 Let's Talk
 
 <p align="center">
-  <em>Feel free to reach out if you have an exciting project, collaboration opportunity, or just want to talk AI!</em>
+  I'm always open to discussing <strong>AI projects, research collaborations, or interesting engineering challenges</strong>.<br/>
+  Whether it's a production system or an ambitious idea — let's make it real.
 </p>
 
-<p align="center">
-  📧 <a href="mailto:emam200232@gmail.com">emam200232@gmail.com</a> &nbsp;|&nbsp;
-  📍 Cairo, Egypt &nbsp;|&nbsp;
-  📞 +20 120 404 5635
-</p>
+<div align="center">
+
+| 📧 Email | 📍 Location | 🌐 Kaggle |
+|:---:|:---:|:---:|
+| [emam200232@gmail.com](mailto:emam200232@gmail.com) | Cairo, Egypt 🇪🇬 | [kaggle.com/elemam](https://kaggle.com/elemam) |
+
+</div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/mohamed-em2m" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="52" />
+  <a href="https://github.com/mohamed-em2m" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=4ADE80"/>
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=4ADE80"/>
   </a>
-  <a href="mailto:emam200232@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  &nbsp;
+  <a href="mailto:emam200232@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d1b2a?style=for-the-badge&logo=gmail&logoColor=4ADE80"/>
   </a>
-  <a href="https://kaggle.com/elemam" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="52" />
+  &nbsp;
+  <a href="https://kaggle.com/elemam">
+    <img src="https://img.shields.io/badge/Kaggle-0d1b2a?style=for-the-badge&logo=kaggle&logoColor=4ADE80"/>
   </a>
 </div>
 
@@ -293,13 +339,12 @@ Hi! I'm **Mohamed Emam** — an AI Engineer with strong expertise in **machine l
 
 <br/>
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:06B6D4,100:8B5CF6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5132,50:0A3D2E,100:0D1B2A&height=120&section=footer&text=Let's+Build+Intelligent+Things&fontSize=20&fontColor=4ADE80&fontAlignY=65"/>
 </p>
 
 <p align="center">
-  <a href="#top" title="Back to top">
-    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-8B5CF6?style=for-the-badge" alt="Back to top"/>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-0d1b2a?style=for-the-badge&logoColor=4ADE80" />
   </a>
 </p>
