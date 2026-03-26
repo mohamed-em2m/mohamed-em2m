@@ -39,14 +39,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Who Am I?
 
-## 👤 Who Am I?
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
+</picture>
 
 AI Engineer with strong expertise in machine learning, deep learning, NLP, and computer vision. Experienced in designing and deploying production-ready AI solutions including chatbots, recommendation engines, and real-time detection systems. Skilled in full-stack development (MERN) and proficient in Python, C++, and JavaScript. Hands-on experience with cloud deployment (GCP, Azure) and MLOps practices. Passionate about applying AI to solve real-world problems and staying at the forefront of emerging AI technologies.
 
+- 🎓 B.Sc. in `Computer Science & AI` — Banha University
+- 💼 Currently work at COA Holding company
+- 🧠 Always `learning new things` & pushing boundaries
+- 🤖 Passionate about `Smart systems`, `AI`,`LLMs`, `Agents`, and `real-world AI systems`
+
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
