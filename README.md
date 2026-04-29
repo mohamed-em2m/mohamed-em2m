@@ -314,14 +314,6 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
   </a>
 </div>
 
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohamed-em2m/mohamed-em2m/output/snake.svg" alt="Snake animation" width="100%"/>
-</div>
-
-<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5132,50:0A3D2E,100:0D1B2A&height=120&section=footer&text=Let's+Build+Intelligent+Things&fontSize=20&fontColor=4ADE80&fontAlignY=65"/>
