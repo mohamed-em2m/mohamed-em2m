@@ -1,3 +1,4 @@
+<a name="top"></a>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:0A3D2E,100:0F5132&height=120&section=header&text=Mohamed%20Emam&fontSize=42&fontColor=4ADE80&fontAlignY=65&desc=AI%20Engineer%20%7C%20Cairo%2C%20Egypt&descAlignY=85&descSize=16&descColor=6EE7B7"/>
 </p>
@@ -22,7 +23,7 @@
     <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=4ADE80"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-emam-599970208/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=4ADE80"/>
   </a>
   &nbsp;
@@ -36,7 +37,6 @@
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Who Am I?
@@ -50,11 +50,9 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 - 🎓 B.Sc. in `Computer Science & AI` — Banha University
 - 💼 Currently work at COA Holding company
 - 🧠 Always `learning new things` & pushing boundaries
-- 🤖 Passionate about `Smart systems`, `AI`,`LLMs`, `Agents`, and `real-world AI systems`
+- 🤖 Passionate about `Smart systems`, `AI`, `LLMs`, `Agents`, and `real-world AI systems`
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -64,6 +62,7 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 <div align="center">
 
 ### 🤖 LLM & Agentic AI
+
 <p>
   <img src="https://img.shields.io/badge/LangChain-0d1b2a?style=for-the-badge&logo=chainlink&logoColor=4ADE80"/>
   <img src="https://img.shields.io/badge/LangGraph-0d1b2a?style=for-the-badge&logo=chainlink&logoColor=4ADE80"/>
@@ -154,6 +153,7 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 </table>
 
 ### 🌐 Other Technologies
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=4ADE80"/>
   <img src="https://img.shields.io/badge/ONNX-0d1b2a?style=for-the-badge&logo=onnx&logoColor=4ADE80"/>
@@ -168,7 +168,6 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -184,7 +183,7 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 
 ---
 
-**🏠 Diib Realties — Cross-Platform AI Chatbot** &nbsp;`LangGraph` `Odoo` `GCP` `Facebook API`
+**🏠 Deeb Realties — Cross-Platform AI Chatbot** &nbsp;`LangGraph` `Odoo` `GCP` `Facebook API`
 > Deployed across WhatsApp, Instagram & Facebook Messenger with automated booking, complaint management, and full Odoo CRM integration. **99.9% uptime** on GCP.
 
 ---
@@ -218,7 +217,6 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 > Natural language interface for CSV analysis — ask a question, get a full visual report with automated insight generation.
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -233,7 +231,6 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 | 📄 **PageIndex** | Added Docling support, Pydantic JSON validation & configurable LLM API |
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -249,7 +246,6 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -274,7 +270,6 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -286,13 +281,9 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
   Whether it's a production system or an ambitious idea — let's make it real.
 </p>
 
-<div align="center">
-
 | 📧 Email | 📍 Location | 🌐 Kaggle |
 |:---:|:---:|:---:|
 | [emam200232@gmail.com](mailto:emam200232@gmail.com) | Cairo, Egypt 🇪🇬 | [kaggle.com/elemam](https://kaggle.com/elemam) |
-
-</div>
 
 <br/>
 
@@ -301,7 +292,7 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
     <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=4ADE80"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-emam-599970208/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=for-the-badge&logo=linkedin&logoColor=4ADE80"/>
   </a>
   &nbsp;
@@ -313,7 +304,6 @@ AI Engineer with strong expertise in machine learning, deep learning, NLP, and c
     <img src="https://img.shields.io/badge/Kaggle-0d1b2a?style=for-the-badge&logo=kaggle&logoColor=4ADE80"/>
   </a>
 </div>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5132,50:0A3D2E,100:0D1B2A&height=120&section=footer&text=Let's+Build+Intelligent+Things&fontSize=20&fontColor=4ADE80&fontAlignY=65"/>
